@@ -1,0 +1,14 @@
+dist/
+cache/
+logs/
+backups/
+build/
+release/
+tmp/
+.hosts-opt.lock
+.gui.pid
+.preview*
+__pycache__/
+*.pyc
+*.spec
+.venv/
