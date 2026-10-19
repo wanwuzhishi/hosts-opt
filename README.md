@@ -9,6 +9,9 @@ Windows 上的 hosts 优化工具：从多个公开源拉取 GitHub hosts，在�
 - 图形界面基于 Tkinter
 - 发布版提供免 Python 的 Windows x64 EXE
 
+> 项目介绍与使用说明：[万物之时博客 · hosts-opt](https://blog.126330.xyz/posts/57eaa899/)  
+> 博客主页：<https://blog.126330.xyz>
+
 ## 下载与安装（Release）
 
 1. 打开 [Releases](https://github.com/wanwuzhishi/hosts-opt/releases)，下载最新的 `hosts-opt-<版本>-windows-x64.zip`。
